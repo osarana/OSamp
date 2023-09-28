@@ -1,0 +1,84 @@
+(Spanish now, English below)
+---------------------------------
+Hi-Fi Sony© 2005 por Mx 
+(InterWeb Design Argentina)
+Para Winamp Version 2 & 5
+Basado en la Piel  elaborada por Will Mooney 
+[ wsmooney@hotmail.com ]
+Gracias Will por tu permiso!!
+
+Mucho trabajo en los detalles, se rediseñó el 
+total de los botones de la piel original, se 
+cambiaron los colores de los indicadores, 
+se agregaron cursores animados  y máscaras
+ de transparencias.
+Se agrega un plugin de visualización que hace
+ juego con esta skin: WinAmp Speaker
+2.0 de Ray Waldin [ rwaldin@pacbell.net ] 
+(Copiar TKS--SPE.DLL en el directorio de 
+los plugins) 
+y fuente Square 721 BT (copiarla al directorio
+ de fuentes de windows)
+
+Que mas decir? Es otra y talvez la mejor skin
+ no oficial de Sony para vestir al mejor 
+ reproductor: WINAMP.
+
+Fecha de terminación: 
+20 de Agosto de 2005 - Rosario - Argentina
+Contacto: interwebdesign@gmail.com 
+
+necesitas una cuenta gmail??
+Solo tienes que enviarme un email y listo!!!
+
+-------------------------------------
+
+
+Hi-Fi Sony© 2005 By Mx
+InterWeb Design Argentina
+For Winamp Version 2 & 5
+Based on Will Mooney's 
+Expensive HI-Fi Sony skin 
+[ wsmooney@hotmail.com ]
+Thanks Will for your permission!!
+
+At lot of work on the details, it was redesigned
+ all buttons, color of the indicators has been 
+ changed, added animated cursors and a mask 
+ of transparencies .  
+Added visualization plugins that's match with 
+this skin (I guess):   
+WinAmp Speaker 2.0 by Ray Waldin
+ [ rwaldin@pacbell.net ]   
+(Copy TKS--SPE.DLL to plugins folder)   
+and font Square 721 BT 
+(copy to windows font folder)  
+  
+What's else to say? This is another but maybe 
+the best unofficial skin for Sony to dress up 
+the best player: WINAMP
+
+Programs Used:
+-------------------------
+Photoshop CS2. & Microangelo 5.9
+release date: 
+August 20, 2005 - Rosario - Argentina
+Contact: interwebdesign@gmail.com
+
+Do you need an gmail account???
+Email me , you got itl!!!!
+
+CREDITS:
+-----------
+Winamp is Copyright © 1997-2005 Nullsoft, Inc. 
+and Justin Frankel. 
+Winamp is a trademark of Nullsoft, Inc.
+Expensive HI-Fi_Sony © 2002-2005 
+By Will Mooney
+WinAmp Speaker 2.0 beta 1 © 1998-2005 
+by Ray Waldin
+Adobe Photoshop is Copyright © 1991-2005 
+Adobe Corp.
+Microangelo 5.9 is Copyright © 1995-2005 
+Leonard A Gray, produced 
+by Impact Software, Inc

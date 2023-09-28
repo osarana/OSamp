@@ -1,0 +1,8 @@
+[Text]
+Normal=#D1422E
+Current=#8A898F
+NormalBG=#000000
+SelectedBG=#804040
+MbBG=#000000
+MbFG=#8A898F
+Font=Vogue

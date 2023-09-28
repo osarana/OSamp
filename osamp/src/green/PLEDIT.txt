@@ -1,0 +1,8 @@
+[Text]
+Normal=#009600
+Current=#00FF00
+NormalBG=#000000
+SelectedBG=#006000
+Font=Lucida Sans
+mbFG=#009600
+mbBG=#000000

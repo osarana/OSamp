@@ -1,0 +1,8 @@
+[Text]
+Normal=#9C9C9C
+Current=#AC9075
+NormalBG=#000000
+SelectedBG=#3C3C3C
+Font=Square 721 BT
+mbFG=#9C9C9C
+mbBG=#000000

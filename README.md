@@ -20,6 +20,6 @@ OSamp is a powerful and customizable MP3 player developed in C++ using the SDL l
 
 Follow these steps to get started with OSamp:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/osamp.git`
+1. **Clone the Repository:** `git clone https://github.com/osarana/osamp.git`
 
 2. **Run:** Execute the compiled binary to launch OSamp.

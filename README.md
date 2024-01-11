@@ -1,6 +1,6 @@
 # OSamp - Customizable MP3 Player
 
-![OSamp Screenshot](osamp_screenshot.png)
+![OSamp Screenshot](OSamp.png)
 
 OSamp is a powerful and customizable MP3 player developed in C++ using the SDL library. It offers a rich audio experience with support for drag-and-drop functionality, audio streaming, and Winamp skin integration. With OSamp, you can enjoy your music in style and make it truly your own.
 
